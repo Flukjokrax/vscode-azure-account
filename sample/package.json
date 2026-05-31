@@ -49,8 +49,8 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@azure/arm-appservice": "^9.0.0",
-    "@azure/arm-resources": "^4.2.2",
-    "@azure/arm-subscriptions": "^3.1.2"
+    "@azure/arm-appservice": "^18.0.0",
+    "@azure/arm-resources": "^7.0.0",
+    "@azure/arm-subscriptions": "^6.0.0"
   }
 }
